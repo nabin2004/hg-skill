@@ -2,6 +2,11 @@
 
 Repository containing agent skills for transforming unstructured texts, archival records, multi-page PDF survey reports, and tabular cultural heritage datasets into validated, ontology-grounded RDF Turtle (`.ttl`) for contribution to the **[HeritageGraph](https://cairnepal.github.io/heritagegraphontology/)** platform by **CAIR-Nepal**.
 
+This repository includes some copied skills from [mattpocock/skills](https://github.com/mattpocock/skills):
+- code-review
+- improve-codebase-architecture
+- writing-for-agents
+
 ---
 
 ## Architecture & Transformation Pipeline
