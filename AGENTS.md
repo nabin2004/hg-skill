@@ -4,17 +4,8 @@ Repository containing agent skills for transforming unstructured, archival, and 
 
 ## Agent skills
 
-### Issue tracker
-
-GitHub Issues on [CAIRNepal/hg-skill](https://github.com/CAIRNepal/hg-skill) using the `gh` CLI. See `docs/agents/issue-tracker.md`.
-
-### Triage labels
-
-Five canonical roles (`needs-triage`, `needs-info`, `ready-for-agent`, `ready-for-human`, `wontfix`). See `docs/agents/triage-labels.md`.
-
-### Domain docs
-
-Single-context repository using `GLOSSARY.md` and `docs/adr/`. See `docs/agents/domain.md`.
+GitHub Issues on [CAIRNepal/hg-skill](https://github.com/CAIRNepal/hg-skill) using the `gh` CLI. See `docs/agents/issue-tracker.md`. Canonical triage roles (`needs-triage`, `needs-info`, `ready-for-agent`, `ready-for-human`, `wontfix`) are documented in `docs/agents/triage-labels.md`.
+Consume domain docs from `GLOSSARY.md` and `docs/adr/`. See `docs/agents/domain.md`.
 
 ## Core Repository Architecture
 
